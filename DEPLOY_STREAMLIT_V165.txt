@@ -1,0 +1,14 @@
+PHYSIOSENTINEL GAIT V165
+
+Archivo principal
+streamlit_app.py
+
+Comando local
+streamlit run streamlit_app.py
+
+Despliegue en Streamlit Community Cloud
+1. Subir el contenido del ZIP a un repositorio.
+2. Seleccionar streamlit_app.py como archivo principal.
+3. Mantener requirements.txt y la carpeta assets junto al archivo principal.
+
+La anatomía y cinemática V163 permanecen congeladas. V165 modifica la pestaña 10 y su exportación.

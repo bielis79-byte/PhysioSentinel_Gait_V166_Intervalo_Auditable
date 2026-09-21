@@ -1,0 +1,20 @@
+{
+  "version": "162-foot-temporal-continuity",
+  "source": "alejandro.npz",
+  "frames": 75,
+  "pelvis_ap_corrected": true,
+  "sacrum_posterior_margin": 0.1720529763929931,
+  "foot_assignment": {"r": "l", "l": "r"},
+  "hallux_medial_score": {"r": 0.08949787874541751, "l": 0.07483826595501018},
+  "neutral_offset_deg": {"r": 65.93783033044885, "l": 61.70356400832752},
+  "axis_map_determinant": -1.0,
+  "patella_ap_corrected": {"r": true, "l": true},
+  "patella_anterior_margin": {"r": 0.10046086970886033, "l": 0.08086848860324952},
+  "foot_temporal_continuity": {
+    "r": {"max_frame_jump_deg": 18.647742282406096, "p95_frame_jump_deg": 15.310642784524434},
+    "l": {"max_frame_jump_deg": 20.27007980845982, "p95_frame_jump_deg": 16.56850662979734}
+  },
+  "skin_skel_original_preserved": true,
+  "overall_pass": true,
+  "visual_preview_confirmed_by_user": true
+}

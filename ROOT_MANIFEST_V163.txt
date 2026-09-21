@@ -1,0 +1,22 @@
+PHYSIOSENTINEL GAIT V163
+
+Archivo principal:
+- streamlit_app.py
+
+Cambios y despliegue:
+- README_VERSION_163.md
+- CHANGES_VERSION_163.md
+- DEPLOY_STREAMLIT_V163.txt
+
+Validación:
+- VALIDACION_V163_SKIN_MALE_FEMALE.json
+
+Módulo modificado:
+- visible_human_atlas.py
+- skel_poc.py
+
+Activos privados no incluidos:
+- skel_models_v1.1.zip
+- skel_male.pkl
+- skel_female.pkl
+- ZIP atlas Denver Male/Female

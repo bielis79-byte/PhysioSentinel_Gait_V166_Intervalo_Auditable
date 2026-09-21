@@ -1,0 +1,27 @@
+{
+  "version": "163",
+  "method": "official_SKEL_LBS_weights",
+  "test_sequence": "alejandro.npz",
+  "frames": 75,
+  "vertices_per_frame": 6890,
+  "triangles": 13776,
+  "male_female_topology_identical": true,
+  "male": {
+    "topology_exact": true,
+    "finite": true,
+    "right": {"fully_rigid_vertices": 158, "transition_vertices": 244},
+    "left": {"fully_rigid_vertices": 166, "transition_vertices": 249},
+    "pass": true
+  },
+  "female": {
+    "topology_exact": true,
+    "finite": true,
+    "right": {"fully_rigid_vertices": 172, "transition_vertices": 218},
+    "left": {"fully_rigid_vertices": 176, "transition_vertices": 218},
+    "pass": true
+  },
+  "kinematics_modified": false,
+  "joints_modified": false,
+  "private_models_bundled": false,
+  "pass": true
+}

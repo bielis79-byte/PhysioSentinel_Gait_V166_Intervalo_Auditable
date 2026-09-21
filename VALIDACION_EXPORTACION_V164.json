@@ -1,0 +1,22 @@
+{
+  "version": "164",
+  "pass": true,
+  "checks": {
+    "app_version_164": true,
+    "quality_csv": true,
+    "quality_json": true,
+    "report_docx": true,
+    "report_pdf": true,
+    "history_plot_png": true,
+    "profile_plot_png": true,
+    "corrected_skin_npz": true,
+    "denver_compact_npz": true,
+    "tab12_exports": true,
+    "tab13_exports": true,
+    "coverage_14_tabs": true,
+    "viewer_publishes_corrected_skin": true,
+    "official_gender_weights": true,
+    "kinematics_assignment_absent": true,
+    "private_assets_absent": true
+  }
+}

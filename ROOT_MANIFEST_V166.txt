@@ -1,0 +1,16 @@
+Versión: PhysioSentinel Gait V166
+Base: V165
+Objetivo: trazabilidad estricta del intervalo seleccionado
+
+Archivos nuevos de versión:
+- CHANGES_VERSION_166.md
+- README_VERSION_166.md
+- DEPLOY_STREAMLIT_V166.txt
+- ROOT_MANIFEST_V166.txt
+- test_interval_v166.py
+
+Validaciones:
+- Compilación Python de los módulos.
+- Regresión de puntuación ICLM/ICBF heredada de V165.
+- Auditoría de conversión intervalo→frames.
+- Comprobación del cableado de recorte del vídeo anotado monoplano y biplanar.

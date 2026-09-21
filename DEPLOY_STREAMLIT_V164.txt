@@ -1,0 +1,7 @@
+PHYSIOSENTINEL GAIT V164 · DESPLIEGUE
+
+1. Descomprimir este ZIP en el repositorio de Streamlit.
+2. Conservar los secrets existentes y el cargador privado SKEL.
+3. No subir PKL SKEL ni ZIP Denver al repositorio o a Supabase.
+4. Archivo principal: streamlit_app.py
+5. Las nuevas dependencias python-docx y reportlab se instalan desde requirements.txt.

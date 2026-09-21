@@ -1,0 +1,7 @@
+Descomprimir el ZIP y subir todos los archivos de la carpeta raíz al repositorio de Streamlit.
+
+Archivo principal: streamlit_app.py
+Versión mostrada: 166
+
+No modificar los secretos existentes de Supabase ni las credenciales del atlas.
+

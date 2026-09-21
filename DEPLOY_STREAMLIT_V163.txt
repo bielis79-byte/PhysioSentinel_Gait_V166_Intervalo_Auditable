@@ -1,0 +1,11 @@
+PHYSIOSENTINEL GAIT V163 · DESPLIEGUE
+
+1. Sustituir el contenido del repositorio por el contenido de este ZIP conservando
+   los secrets existentes.
+2. Mantener configurado el acceso privado a skel_models_v1.1.zip o utilizar el
+   fallback manual disponible en la aplicación.
+3. No subir los PKL SKEL ni los ZIP Denver al repositorio o a Supabase.
+4. Archivo principal: streamlit_app.py
+
+V163 selecciona automáticamente los pesos oficiales male/female según el sexo
+registrado y conserva las correcciones anatómicas Denver de V162.

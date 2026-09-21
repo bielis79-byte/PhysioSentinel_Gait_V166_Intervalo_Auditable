@@ -1,0 +1,6 @@
+Punto de entrada: streamlit_app.py
+
+Sustituye el contenido del repositorio por el contenido de este ZIP, manteniendo
+los secrets y la configuración privada existentes. V162 no guarda el atlas
+Denver ni archivos NPZ/MP4 pesados en Supabase.
+

@@ -1,0 +1,19 @@
+PHYSIOSENTINEL GAIT V164 · EXPORTACIÓN INTEGRAL
+
+Entrada:
+- streamlit_app.py
+
+Cambios V164:
+- CHANGES_VERSION_164.md
+- README_VERSION_164.md
+- DEPLOY_STREAMLIT_V164.txt
+
+Validación:
+- validate_export_v164.py
+- VALIDACION_EXPORTACION_V164.json
+
+Garantías:
+- Anatomía y cinemática V163 congeladas.
+- PDF/DOCX/CSV/JSON/PNG/NPZ/vídeos según disponibilidad real.
+- Manifiesto de cobertura de las 14 pestañas dentro de cada exportación clínica.
+- Sin PKL privados, ZIP SKEL ni ZIP Denver incluidos.

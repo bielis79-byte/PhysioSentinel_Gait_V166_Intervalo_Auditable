@@ -1,0 +1,14 @@
+{
+  "version": "166",
+  "status": "passed",
+  "checks": {
+    "python_compile": true,
+    "interval_audit_metrics": true,
+    "single_camera_annotated_video_uses_segment": true,
+    "biplanar_front_annotated_video_uses_segment": true,
+    "biplanar_lateral_annotated_video_uses_segment": true,
+    "selected_interval_saved_in_metrics": true,
+    "v165_scoring_regression": true
+  },
+  "scope": "Validación estructural y numérica del cableado intervalo→frames→métricas/curvas/vídeo anotado. La ejecución audiovisual final depende del entorno Streamlit con OpenCV/FFmpeg instalado mediante requirements.txt."
+}

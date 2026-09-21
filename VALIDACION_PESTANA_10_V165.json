@@ -1,0 +1,23 @@
+{
+  "version": "165",
+  "scope": "Pestaña 10 capacidad locomotora y perfil biomecánico",
+  "algorithms": {
+    "locomotor": "ICLM 0.2 experimental",
+    "biomechanical": "ICBF/ICS 0.5 experimental"
+  },
+  "tests": {
+    "normal_without_aid": "expected >=95/100",
+    "two_crutches_default_independence": "expected <=49/100",
+    "cadence_below_50_without_speed": "expected <=49/100",
+    "measured_speed_below_0.40": "expected <=49/100",
+    "distal_frontal_anomalies": "domain present and global profile reduced",
+    "domain_weights": "sum equals 1.0"
+  },
+  "limitations": [
+    "Cadence fallback is not metric gait speed",
+    "Frontal distal domain is projected 2D",
+    "Axial rotation and 3D pronation remain non-puntuable from one frontal camera",
+    "Scores are internal experimental follow-up indices and not diagnostic scales"
+  ],
+  "status": "PASS"
+}
